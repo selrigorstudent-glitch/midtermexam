@@ -24,12 +24,13 @@ body {
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
 }
 
-.owner {
-  margin: 0 0 10px;
-  text-align: center;
-  font-size: clamp(1.3rem, 5.5vw, 2rem);
-  font-weight: 800;
-  line-height: 1.15;
+ .owner {
+     margin: 0 0 10px;
+     text-align: center;
+     font-size: clamp(0.9rem, 4.4vw, 1.4rem);
+     font-weight: 700;
+     white-space: nowrap;
+     line-height: 1.15;
 }
 
 .screen {
